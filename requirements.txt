@@ -1,6 +1,5 @@
 pyttsx3
 SpeechRecognition
 wikipedia
-webbrowser
 pipwin
 requests
