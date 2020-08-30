@@ -1,7 +1,7 @@
 # PyFriday
 
 ## A PyPi Library As A Replica Of Friday...
-
+**Reach Me Out On Pypi [AkashPattnaik](https://pypi.org/user/AkashPattnaik/)**
 ## Installation
 **You Can Download The Package Directly From** `Pypi:`
 ```shell script
